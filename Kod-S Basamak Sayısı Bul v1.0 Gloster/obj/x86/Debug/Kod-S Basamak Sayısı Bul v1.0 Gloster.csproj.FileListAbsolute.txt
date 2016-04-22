@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Yeni klasör (2)\Kod-S Basamak Sayısı Bul v1.0 Gloster\Kod-S Basamak Sayısı Bul v1.0 Gloster\bin\Debug\Kod-S Basamak Sayısı Bul v1.0 Gloster.exe
+C:\Users\mrt_b\Desktop\Yeni klasör (2)\Kod-S Basamak Sayısı Bul v1.0 Gloster\Kod-S Basamak Sayısı Bul v1.0 Gloster\bin\Debug\Kod-S Basamak Sayısı Bul v1.0 Gloster.pdb
+C:\Users\mrt_b\Desktop\Yeni klasör (2)\Kod-S Basamak Sayısı Bul v1.0 Gloster\Kod-S Basamak Sayısı Bul v1.0 Gloster\obj\x86\Debug\Kod-S Basamak Sayısı Bul v1.0 Gloster.exe
+C:\Users\mrt_b\Desktop\Yeni klasör (2)\Kod-S Basamak Sayısı Bul v1.0 Gloster\Kod-S Basamak Sayısı Bul v1.0 Gloster\obj\x86\Debug\Kod-S Basamak Sayısı Bul v1.0 Gloster.pdb
